@@ -12,6 +12,7 @@
 		587749E522DD1B9800800431 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 587749E322DD1B9800800431 /* Main.storyboard */; };
 		587749E722DD1B9D00800431 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 587749E622DD1B9D00800431 /* Assets.xcassets */; };
 		587749EA22DD1B9D00800431 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 587749E822DD1B9D00800431 /* LaunchScreen.storyboard */; };
+		58774A1222DFB4AE00800431 /* Bear.png in Resources */ = {isa = PBXBuildFile; fileRef = 58774A1122DFB4AE00800431 /* Bear.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		587749E622DD1B9D00800431 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		587749E922DD1B9D00800431 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		587749EB22DD1B9D00800431 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58774A1122DFB4AE00800431 /* Bear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bear.png; path = "../../SpurIQ Images/RandomImages/Bear.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				587749E622DD1B9D00800431 /* Assets.xcassets */,
 				587749E822DD1B9D00800431 /* LaunchScreen.storyboard */,
 				587749EB22DD1B9D00800431 /* Info.plist */,
+				58774A1122DFB4AE00800431 /* Bear.png */,
 			);
 			path = MyFirstSwiftApp;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				587749EA22DD1B9D00800431 /* LaunchScreen.storyboard in Resources */,
+				58774A1222DFB4AE00800431 /* Bear.png in Resources */,
 				587749E722DD1B9D00800431 /* Assets.xcassets in Resources */,
 				587749E522DD1B9800800431 /* Main.storyboard in Resources */,
 			);
