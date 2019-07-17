@@ -2,15 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "10-2-speech-bubble-free-download-png.png",
+      "filename" : "Robot.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "Robot@2x.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
+      "filename" : "Robot@3x.png",
       "scale" : "3x"
     }
   ],
